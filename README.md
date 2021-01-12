@@ -4,11 +4,11 @@ Arduino nano based RC car lights with turn signals and exhaust backfire.
 This sketch will work on a 3 channel receiver and an arduino nano.
 
 
-Channel 1 signal (sterring) will be on Digital pin 2 on the arduino nano.
+Channel 1 signal (steering) will be on Digital pin 2 on the arduino nano.
 
-Channel 2 signal (Throthle) will be on Digital pin 10 on the arduino nano.
+Channel 2 signal (Throtle) will be on Digital pin 10 on the arduino nano.
 
-Channel 3 signal (on/off lights toggle) will be on Digital 12 on the arduino nano.
+Channel 3 signal (on/off lights toggle) will be on Digital pin 12 on the arduino nano.
 
 
 As for the leds used, it is not necesary to use resistors since they will be powered by PWM, but 
