@@ -1,5 +1,5 @@
 # RC_BLINDING_LIGHTS
-Arduino nano based RC car lights with turn signals and exhaust backfire.
+Arduino nano based RC car lights with turn signals and exhaust backfire!!
 
 This sketch will work on a 3 channel receiver and an arduino nano.
 
